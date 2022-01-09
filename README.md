@@ -1,1 +1,1 @@
-# Module01-Fitness
+# Module01-Gym
